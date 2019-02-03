@@ -1,2 +1,11 @@
 Work in progress on ISIC dataset
 https://www.isic-archive.com/
+
+Download data:
+- follow instructions on https://github.com/GalAvineri/ISIC-Archive-Downloader 
+
+Data preprocessing
+- run MetadataProcessor.py, meta.csv will be generated after that
+
+Investigate meta data
+- see ISIC.ipynb
